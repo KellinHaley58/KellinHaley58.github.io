@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Coiny|Fjalla+One|Hind+Madurai|Karla|Open+Sans+Condensed:300|Roboto:400,900|Shadows+Into+Light|Staatliches');
+
+body{
+	background: #c9af98;
+}
+
+#parastyle1 {
+	text-align: center;
+	margin-top: 1px;
+	color: black;
+}
+
+#imagestyle1 {
+	border: solid;
+	border-color: #3a4660;
+	display: block;
+	margin: auto;
+	padding: 10px;
+
+}
+
+#parastyle2 {
+	text-align: center;
+	margin-top: 1px;
+	color: black;
+}
+
+h1{
+	font-family: Roboto, sans-serif;
+	font-size: 60px;
+	text-align: center;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	color: #e1e8f0;
+}
+
+h2{
+	font-family: Roboto, sans-serif;
+	font-size: 40px;
+	text-align: left;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	color: #e1e8f0;
+}
+p{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
